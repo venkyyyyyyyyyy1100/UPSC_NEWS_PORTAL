@@ -1,0 +1,6 @@
+subjects = {
+    "Polity": "India government policy",
+    "Economy": "India economy 2025",
+    "Environment": "India climate change",
+    "International Relations": "India foreign policy"
+}
